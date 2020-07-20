@@ -52,7 +52,7 @@ Withdraw 5: -25
 Output: "Incorrect or insufficient funds"
 
 Tips: This program should be expandable to support 50s and 100s in future. Please allow the program to support any denominations with little or no code change.
-
+```
 public class ATM {
    public void deposit(...) {
    }
@@ -60,3 +60,4 @@ public class ATM {
    public void withdraw(...) {
    }
 }
+```
