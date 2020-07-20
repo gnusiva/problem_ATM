@@ -16,7 +16,7 @@ Customer input the amount to withdraw. ATM dispenses the 20, 10, 5, and 1 dollar
 
 For example, 
 
-Deposit 1: 10s: 8, 5s: 20
+### Deposit 1: 10s: 8, 5s: 20
 ---------------------------------
 
 Balance: 20s=0, 10s=8, 5s=20, 1s=0, Total=180
