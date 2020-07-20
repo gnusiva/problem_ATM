@@ -16,41 +16,27 @@ Customer input the amount to withdraw. ATM dispenses the 20, 10, 5, and 1 dollar
 
 For example, 
 
-### Deposit 1: 10s: 8, 5s: 20
----------------------------------
-
+#### Deposit 1: 10s: 8, 5s: 20
 Balance: 20s=0, 10s=8, 5s=20, 1s=0, Total=180
 
 #### Deposit 2: 20s: 3, 5s: 18, 1s: 4
------------------------------------------
-
 Balance: 20s=3, 10s=8, 5s=38, 1s=4, Total=334
 
-Withdraw 1: 75
----------------------
-
+#### Withdraw 1: 75
 Dispensed: 20s=3, 10s=1, 5s=1
 Balance: 20s=0, 10s=7, 5s=37, 1s=4, Total=259
 
-Withdraw 2: 122
-----------------------
-
+#### Withdraw 2: 122
 Dispensed: 10s=7, 5s=10, 1s=2
 Balance: 20s=0, 10s=0, 5s=27, 1s=2, Total=137
 
-Withdraw 3: 253
-----------------------
-
+#### Withdraw 3: 253
 Output: "Incorrect or insufficient funds"
 
-Withdraw 4: 0
--------------------
-
+#### Withdraw 4: 0
 Output: "Incorrect or insufficient funds"
 
-Withdraw 5: -25
-----------------------
-
+#### Withdraw 5: -25
 Output: "Incorrect or insufficient funds"
 
 Tips: This program should be expandable to support 50s and 100s in future. Please allow the program to support any denominations with little or no code change.
