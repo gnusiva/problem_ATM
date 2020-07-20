@@ -21,7 +21,7 @@ For example,
 
 Balance: 20s=0, 10s=8, 5s=20, 1s=0, Total=180
 
-Deposit 2: 20s: 3, 5s: 18, 1s: 4
+#### Deposit 2: 20s: 3, 5s: 18, 1s: 4
 -----------------------------------------
 
 Balance: 20s=3, 10s=8, 5s=38, 1s=4, Total=334
